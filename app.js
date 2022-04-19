@@ -52,7 +52,7 @@ function showWeatherReport(weather){
         
     } else if(weatherType.textContent == 'Clouds') {
 
-        document.body.style.backgroundImage = "url('images/cloud.jpg')";
+        document.body.style.backgroundImage = "url('images/clouds.jpg')";
         
     } else if(weatherType.textContent == 'Haze') {
 
